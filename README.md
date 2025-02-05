@@ -21,31 +21,3 @@ WHISHWORKS IT Consulting Pvt.Ltd., Hyderabad |Talent Executive 3/2017 –4/2019
 
 ## Publications
 Chitta. A. (2018) HR Management in 21st Century: Challenges for future. Journal of Social Welfare and Management, 10(2), 164- 166
-
-
-
-<style>
-  p, a {
-    line-height: 1.6;
-    margin-bottom: 10px;
-    overflow-wrap: break-word;
-  }
-
-  .footer {
-    clear: both;
-    padding-top: 20px;
-  }
-
-  .social-links a {
-    text-decoration: none;
-    margin: 0 10px;
-    color: #0366d6;
-  }
-
-  .social-links a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-
-
