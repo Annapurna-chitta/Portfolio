@@ -17,12 +17,13 @@ West Agile Labs, Hyderabad 	    |People & Culture Executive, 4/2019 – 10/2020
 WHISHWORKS IT Consulting Pvt.Ltd., Hyderabad |Talent Executive 3/2017 –4/2019
 
 ## Projects 
-# Data for Difference Making
+## Data for Difference Making
 
-[![Presentation Thumbnail](assets/img/ppt-thumbnail.jpg)](https://Annapurna-chitta.github.io/Portfolio/DDMC.pptx){:target="_blank"}
+[![Presentation Thumbnail](assets/img/ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
 
-This presentation covers **"Data for Difference Making,"** exploring key insights and strategies.  
-Click the image to open the full presentation in a new tab.
+Click the image to open the presentation in a new tab.
+
+This presentation covers **"Data for Difference Making,"** exploring key insights and strategies. Analyzed the evolving landscape of community banking in the U.S. I examined historical impacts, demographic shifts, and challenges faced by unbanked and underbanked populations. This project focuses on AI-driven strategies to enhance financial accessibility, reduce banking deserts, and promote digital transactions in underserved communities. This experience strengthened my skills in data analysis, impact assessment, and strategic problem-solving, reinforcing my interest in leveraging technology to address complex industry challenges.
 
 
 ## Publications
