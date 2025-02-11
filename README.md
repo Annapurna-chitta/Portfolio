@@ -1,4 +1,4 @@
-#### Technical Skills: 
+## Technical Skills: 
 
 Analytics & Data Tools	 | SQL, Python, Machine Learning, Predictive Analytics, Behavioral Analytics
 HR Systems		 | Workday, Keka HR, FastCollab
