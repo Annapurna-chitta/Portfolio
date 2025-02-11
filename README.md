@@ -27,7 +27,7 @@ The project focused on creating an integrated platform to bridge the gap between
 Analyzed the evolving landscape of community banking in the U.S. Examined historical impacts, demographic shifts, and challenges faced by unbanked and underbanked populations. This project focuses on AI-driven strategies to enhance financial accessibility, reduce banking deserts, and promote digital transactions in underserved communities. 
 
 ### Play Store App Performance
-[![ML-thumbnail](assets/img/ML-thumbnail.jpg)]([https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true](https://drive.google.com/file/d/1tj6O-cbkmosb_dyG1--9vEEtJirbQvTP/view?usp=sharing))
+[![ML-thumbnail](assets/img/ML-thumbnail.jpg)](https://drive.google.com/file/d/1tj6O-cbkmosb_dyG1--9vEEtJirbQvTP/view?usp=sharing)
 This project predicts the performance of Playstore apps using machine learning. It uses a dataset from Kaggle with information on over 10,000 apps, including attributes like reviews, size, installs, and ratings. Data cleaning and preprocessing involved handling missing values, converting columns to appropriate data types, and encoding categorical variables. Three models were used: Linear Regression, Random Forest, and PCA with Logistic Regression. Random Forest outperformed Linear Regression, but the models still showed room for improvement, suggesting further feature exploration or alternative models for better predictions
 
 ### Recruitment and Selection 
