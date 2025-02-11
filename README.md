@@ -19,17 +19,17 @@ WHISHWORKS IT Consulting Pvt.Ltd., Hyderabad |Talent Executive 3/2017 –4/2019
 Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 
 ## Professional Highlights
--Designed and maintained dashboards, transforming raw data into actionable insights.
--Partnered with leadership to define key business KPIs, driving data-backed decision-making.
--Implemented enterprise-wide systems, enhancing process efficiency and data integration.
--Conducted data analysis to identify trends, optimize operations, and improve outcomes.
--Applied analytics to enhance process efficiency and user experience.
--Led data-driven process optimization initiatives, ensuring accuracy and consistency.
--Utilized data storytelling techniques to communicate insights to diverse stakeholders.
--Played a key role in change management, facilitating smooth transitions and adoption of new processes.
--Recognized for implementing best practices.
--Enhanced onboarding efficiency using data-driven insights, improving new hire integration.
--Led Several CSR Activities.
+-Designed and maintained dashboards, transforming raw data into actionable insights
+-Partnered with leadership to define key business KPIs, driving data-backed decision-making
+-Implemented enterprise-wide systems, enhancing process efficiency and data integration
+-Conducted data analysis to identify trends, optimize operations, and improve outcomes
+-Applied analytics to enhance process efficiency and user experience
+-Led data-driven process optimization initiatives, ensuring accuracy and consistency
+-Utilized data storytelling techniques to communicate insights to diverse stakeholders
+-Played a key role in change management, facilitating smooth transitions and adoption of new processes
+-Recognized for implementing best practices
+-Enhanced onboarding efficiency using data-driven insights, improving new hire integration
+-Led Several CSR Activities
 
 ## Projects 
 ### Healthcare for the Homeless
