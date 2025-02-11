@@ -17,6 +17,19 @@ Advance Auto Parts India, Hyderabad | Sr. Executive HR, 11/2020- 11/2022
 West Agile Labs, Hyderabad 	    |People & Culture Executive, 4/2019 – 10/2020
 WHISHWORKS IT Consulting Pvt.Ltd., Hyderabad |Talent Executive 3/2017 –4/2019
 
+## Professional Highlights
+-Designed and maintained dashboards, transforming raw data into actionable insights.
+-Partnered with leadership to define key business KPIs, driving data-backed decision-making.
+-Implemented enterprise-wide systems, enhancing process efficiency and data integration.
+-Conducted data analysis to identify trends, optimize operations, and improve outcomes.
+-Applied analytics to enhance process efficiency and user experience.
+-Led data-driven process optimization initiatives, ensuring accuracy and consistency.
+-Utilized data storytelling techniques to communicate insights to diverse stakeholders.
+-Played a key role in change management, facilitating smooth transitions and adoption of new processes.
+-Recognized for implementing best practices.
+-Enhanced onboarding efficiency using data-driven insights, improving new hire integration.
+-Led Several CSR Activities.
+
 ## Projects 
 ### Healthcare for the Homeless
 [![SA-ppt-thumbnail](assets/img/SA-ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/1NpVTAZD9YNyka-h1uKo10bC3QUTqcLiw/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
