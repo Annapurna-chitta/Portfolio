@@ -2,7 +2,7 @@
 <head>
     <style>
         body {
-            background-color: #fcffee; /* Change this color code to your preferred color */
+            background-color: #e1fff7; /* Change this color code to your preferred color */
         }
     </style>
 </head>
