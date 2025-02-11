@@ -17,14 +17,21 @@ West Agile Labs, Hyderabad 	    |People & Culture Executive, 4/2019 – 10/2020
 WHISHWORKS IT Consulting Pvt.Ltd., Hyderabad |Talent Executive 3/2017 –4/2019
 
 ## Projects 
-## Data for Difference Making
+## Healthcare for the Homeless
+[![SA-ppt-thumbnail](assets/img/SA-ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/1NpVTAZD9YNyka-h1uKo10bC3QUTqcLiw/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
+The project focused on creating an integrated platform to bridge the gap between service providers and the homeless population, improving access to essential resources. We identified the communication barriers among service providers and addressed them through better coordination. A predictive model was implemented to optimize the placement of kiosks that share nearby resource information. This initiative aimed to enhance accessibility and support for the homeless community.
 
+## Unbanked and Underbanked in the US
 [![Presentation Thumbnail](assets/img/ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
+Analyzed the evolving landscape of community banking in the U.S. Examined historical impacts, demographic shifts, and challenges faced by unbanked and underbanked populations. This project focuses on AI-driven strategies to enhance financial accessibility, reduce banking deserts, and promote digital transactions in underserved communities. 
 
-Click the image to open the presentation in a new tab.
+## Play Store App Performance
+[![ML-thumbnail](assets/img/ML-thumbnail.jpg)]([https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true](https://drive.google.com/file/d/1tj6O-cbkmosb_dyG1--9vEEtJirbQvTP/view?usp=sharing))
+This project predicts the performance of Playstore apps using machine learning. It uses a dataset from Kaggle with information on over 10,000 apps, including attributes like reviews, size, installs, and ratings. Data cleaning and preprocessing involved handling missing values, converting columns to appropriate data types, and encoding categorical variables. Three models were used: Linear Regression, Random Forest, and PCA with Logistic Regression. Random Forest outperformed Linear Regression, but the models still showed room for improvement, suggesting further feature exploration or alternative models for better predictions
 
-This presentation covers **"Data for Difference Making,"** exploring key insights and strategies. Analyzed the evolving landscape of community banking in the U.S. I examined historical impacts, demographic shifts, and challenges faced by unbanked and underbanked populations. This project focuses on AI-driven strategies to enhance financial accessibility, reduce banking deserts, and promote digital transactions in underserved communities. This experience strengthened my skills in data analysis, impact assessment, and strategic problem-solving, reinforcing my interest in leveraging technology to address complex industry challenges.
-
+## Recruitment and Selection 
+[![R&S -thumbnail](assets/img/R&S -thumbnail.jpg)](https://drive.google.com/file/d/1a99XrRGjP3WP5f0rY6FRSrezpzRUfoqZ/view?usp=sharing)
+This project focuses on comparing recruitment and selection strategies of five major FMCG companies in India. It examines key recruitment sources, selection tests, hiring duration, and employee tenure. The study finds that while hiring practices are largely similar, variations exist in recruitment frequency, selection processes, and compensation. The findings offer insights into industry benchmarks and best practices for effective talent acquisition in the FMCG sector.
 
 ## Publications
 Chitta. A. (2018) HR Management in 21st Century: Challenges for future. Journal of Social Welfare and Management, 10(2), 164- 166
