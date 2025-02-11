@@ -1,12 +1,4 @@
-<html>
-<head>
-    <style>
-        body {
-            background-color: #e1fff7; /* Change this color code to your preferred color */
-        }
-    </style>
-</head>
-<body>
+
 ## Technical Skills: 
 
 Analytics & Data Tools	 | SQL, Python, Machine Learning, Predictive Analytics, Behavioral Analytics
@@ -45,5 +37,3 @@ This project focuses on comparing recruitment and selection strategies of five m
 ## Publications
 Chitta. A. (2018) HR Management in 21st Century: Challenges for future. Journal of Social Welfare and Management, 10(2), 164- 166
    
-</body>
-</html>
