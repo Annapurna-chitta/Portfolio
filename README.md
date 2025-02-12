@@ -43,8 +43,10 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 
 ## Projects 
 ### Luxury Cars - BI Dashboard
-[![Lcars-thumbnail](assets/img/Lcars-thumbnail.jpg)](https://drive.google.com/file/d/1dnIfXCwglsLLZ9HTpiuixqx1Qs8frB91/view?usp=sharing)
+[![Lcars-thumbnail](assets/img/Lcars-thumbnail.jpg)](https://app.powerbi.com/groups/me/reports/a7424825-ad80-4b36-868e-a9f9c0d36274/b1ef69eb012402e40548?experience=power-bi)
+
 This Power BI dashboard provides a comprehensive analysis of elite sports car brands, offering insights into various performance, pricing, and market demand metrics. Key features include:
+
 -Production Analysis: Breakdown of units produced by fuel type over time.
 -Brand Performance: Average horsepower, insurance cost, and pricing comparison across brands.
 -Market Demand & Popularity: Identification of top brands based on high-demand models.
