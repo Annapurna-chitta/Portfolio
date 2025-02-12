@@ -42,6 +42,15 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 -Led Several CSR Activities
 
 ## Projects 
+### Luxury Cars - BI Dashboard
+[![Lcars-thumbnail](assets/img/Lcars-thumbnail.jpg)](https://drive.google.com/file/d/1dnIfXCwglsLLZ9HTpiuixqx1Qs8frB91/view?usp=sharing)
+This Power BI dashboard provides a comprehensive analysis of elite sports car brands, offering insights into various performance, pricing, and market demand metrics. Key features include:
+-Production Analysis: Breakdown of units produced by fuel type over time.
+-Brand Performance: Average horsepower, insurance cost, and pricing comparison across brands.
+-Market Demand & Popularity: Identification of top brands based on high-demand models.
+-Safety vs. Speed Correlation: Understanding how top speed relates to safety ratings.
+-Top Brands Overview: Dynamic identification of best-performing brands in key categories like power, price, insurance cost, and popularity using DAX measures.
+
 ### Healthcare for the Homeless
 [![SA-ppt-thumbnail](assets/img/SA-ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/1NpVTAZD9YNyka-h1uKo10bC3QUTqcLiw/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
 The project focused on creating an integrated platform to bridge the gap between service providers and the homeless population, improving access to essential resources. We identified the communication barriers among service providers and addressed them through better coordination. A predictive model was implemented to optimize the placement of kiosks that share nearby resource information. This initiative aimed to enhance accessibility and support for the homeless community.
