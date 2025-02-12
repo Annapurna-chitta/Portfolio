@@ -1,6 +1,13 @@
 ---
 title: Annapurna Chitta
 logo: assets/img/headshot 1.jpg
-description: 6+ years in data-driven decision-making, optimizing people
-  strategies, driving insights, process improvements, and growth.
+description:Data-driven decision-making, optimizing people
+  strategies, driving insights, process improvements and growth.
 theme: jekyll-theme-minimal
+social_links:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/annapurna-chitta"
+    icon: "https://cdn-icons-png.flaticon.com/512/174/174857.png"  # LinkedIn icon
+  - name: Email
+    url: "chittaa@duq.edu"
+    icon: "https://cdn-icons-png.flaticon.com/512/732/732200.png"  # Email icon
