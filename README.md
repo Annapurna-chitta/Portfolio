@@ -44,7 +44,7 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 ## Projects 
 
 ### People BI Dashboard
-[![People-thumbnail](assets/img/People-thumbnail.jpg)](https://app.powerbi.com/groups/me/reports/172ab111-9de8-4bb0-9b29-669d7c10723e/38c1b97028a06521410c?experience=power-bi)
+[![People-thumbnail](assets/img/People-thumbnail.jpeg)](https://app.powerbi.com/groups/me/reports/172ab111-9de8-4bb0-9b29-669d7c10723e/38c1b97028a06521410c?experience=power-bi)
 
 This Power BI dashboard offers workforce insights through risk scoring, attrition analysis, and performance tracking. It helps HR teams identify high-risk employees, evaluate training effectiveness, and improve engagement. Key metrics include workforce distribution, satisfaction trends, and termination reasons. Designed for real-time decision-making and HR analytics improvements.
 
@@ -61,6 +61,7 @@ This Power BI dashboard provides a comprehensive analysis of elite sports car br
 
 ### Healthcare for the Homeless
 [![SA-ppt-thumbnail](assets/img/SA-ppt-thumbnail.jpg)](https://docs.google.com/presentation/d/1NpVTAZD9YNyka-h1uKo10bC3QUTqcLiw/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
+
 The project focused on creating an integrated platform to bridge the gap between service providers and the homeless population, improving access to essential resources. We identified the communication barriers among service providers and addressed them through better coordination. A predictive model was implemented to optimize the placement of kiosks that share nearby resource information. This initiative aimed to enhance accessibility and support for the homeless community.
 
 ### Unbanked and Underbanked in the US
