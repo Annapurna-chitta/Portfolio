@@ -42,6 +42,7 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 -Led Several CSR Activities
 
 ## Projects 
+
 ### People BI Dashboard
 [![People-thumbnail](assets/img/People-thumbnail.jpg)](https://app.powerbi.com/groups/me/reports/172ab111-9de8-4bb0-9b29-669d7c10723e/38c1b97028a06521410c?experience=power-bi)
 
