@@ -42,6 +42,11 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 -Led Several CSR Activities
 
 ## Projects 
+### People BI Dashboard
+[![People-thumbnail](assets/img/People-thumbnail.jpg)]([https://drive.google.com/file/d/1pZZnpRae0gQys_buYneWrMZn00cFRx8P/view?usp=sharing](https://app.powerbi.com/groups/me/reports/d9711d09-520a-43dc-8f00-be07b1d65ad1/38c1b97028a06521410c?experience=power-bi)
+
+This Power BI dashboard offers workforce insights through risk scoring, attrition analysis, and performance tracking. It helps HR teams identify high-risk employees, evaluate training effectiveness, and improve engagement. Key metrics include workforce distribution, satisfaction trends, and termination reasons. Designed for real-time decision-making and HR analytics improvements.
+
 ### Luxury Cars - BI Dashboard
 [![Lcars-thumbnail](assets/img/Lcars-thumbnail.jpg)](https://app.powerbi.com/groups/me/reports/a7424825-ad80-4b36-868e-a9f9c0d36274/b1ef69eb012402e40548?experience=power-bi)
 
