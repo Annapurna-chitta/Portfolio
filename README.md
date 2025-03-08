@@ -44,7 +44,7 @@ Dabur India Pvt. Ltd., Hyderabad | Intern 5/2017 - 8/2017
 ## Projects 
 
 ### People BI Dashboard
-[![People-thumbnail](assets/img/People-thumbnail.jpeg)](https://app.powerbi.com/groups/me/reports/172ab111-9de8-4bb0-9b29-669d7c10723e/38c1b97028a06521410c?experience=power-bi)
+[![People-thumbnail](assets/img/People-thumbnail.jpg)](https://app.powerbi.com/groups/me/reports/172ab111-9de8-4bb0-9b29-669d7c10723e/38c1b97028a06521410c?experience=power-bi)
 
 This Power BI dashboard offers workforce insights through risk scoring, attrition analysis, and performance tracking. It helps HR teams identify high-risk employees, evaluate training effectiveness, and improve engagement. Key metrics include workforce distribution, satisfaction trends, and termination reasons. Designed for real-time decision-making and HR analytics improvements.
 
