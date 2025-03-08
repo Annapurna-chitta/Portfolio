@@ -65,7 +65,7 @@ This Power BI dashboard provides a comprehensive analysis of elite sports car br
 The project focused on creating an integrated platform to bridge the gap between service providers and the homeless population, improving access to essential resources. We identified the communication barriers among service providers and addressed them through better coordination. A predictive model was implemented to optimize the placement of kiosks that share nearby resource information. This initiative aimed to enhance accessibility and support for the homeless community.
 
 ### Unbanked and Underbanked in the US
-[![ppt-thumbnaill](assets/img/ppt-thumbnail.jpg)] https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
+[![ppt-thumbnail](assets/img/ppt-thumbnail.jpg)] https://docs.google.com/presentation/d/11rj7B6jRGxfL4Ph5CakmogAKTQ8OHXp0/edit?usp=sharing&ouid=115402700299788106746&rtpof=true&sd=true)
 
 Analyzed the evolving landscape of community banking in the U.S. Examined historical impacts, demographic shifts, and challenges faced by unbanked and underbanked populations. This project focuses on AI-driven strategies to enhance financial accessibility, reduce banking deserts, and promote digital transactions in underserved communities. 
 
